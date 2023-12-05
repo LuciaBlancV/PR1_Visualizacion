@@ -9,3 +9,7 @@ El documento en formato pdf en la que se explica la selección del dataset y el 
 ### Dataset: Spotify Tracks
 Un conjunto de datos de canciones de Spotify de distintos géneros y sus características de audio.
 
+*"Fuente: Kaggle"*
+*"Autor: Maharshi Pandya"*
+
+
